@@ -15,9 +15,9 @@ This report presents a comprehensive analysis of the second-hand jeans retail ma
 * **Price vs. Reputation**
     * High-volume products priced under $200, should pay more attention to low price product
     * A higher average price for a brand does **not** consistently correlate with a higher seller rating or more followers.
-    * This suggests that factors beyond price, such as **brand reputation and seller service**, are critical drivers of customer satisfaction and loyalty.
+    * Factors beyond price, such as **brand reputation and seller service**, are critical drivers of customer satisfaction.
 * **Market & Product Trends**
-    * A significant majority of listings are for **"gently used"** items, highlighting a robust market for high-quality, second-hand apparel.
+    * A significant majority of listings are for **"gently used"** items, highlighting the market for high-quality, second-hand apparel.
     * Basic colors like **black and blue** remain highly popular.
     * For certain product categories, such as jeans, brand name appears to be a less significant purchasing factor for the average consumer.
 
