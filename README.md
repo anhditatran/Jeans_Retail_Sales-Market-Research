@@ -24,7 +24,7 @@ This report presents a comprehensive analysis of the second-hand jeans retail ma
 * **Data Integrity:** To transform the raw dataset into a clean, reliable, and consistent resource for analysis.
 * **Trend Identification:** To uncover and visualize underlying patterns in sales, pricing, brand popularity, and geographical distribution.
 * **Insight Generation:** To derive actionable conclusions about market drivers that can inform strategic decision-making for buyers and sellers.
-#### **2.2. Data Source**
+####  **Data Source**
 The analysis is based on a static dataset of second-hand jeans listings aggregated from an online retail platform. The dataset includes fields such as `brand`, `price`, `condition`, `color`, `seller rating`, `follower count`, and `shipping options`.
 
 ### **3. Methodology**
