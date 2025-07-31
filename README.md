@@ -1,4 +1,4 @@
-## **Jeans_Retail_Sales-Market-Research**
+## **Jeans Retail Sales - Market Research**
 
 ### **1. Executive Summary**
 This report presents a comprehensive analysis of the second-hand jeans retail market, based on a dataset of online sales listings. The primary objective was to identify the key metrics and dimensions driving brand performance, market trends, and pricing strategies. 
