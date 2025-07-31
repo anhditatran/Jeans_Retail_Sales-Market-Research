@@ -13,6 +13,7 @@ This report presents a comprehensive analysis of the second-hand jeans retail ma
     * The US shows lower shipping volume, which may suggest a stronger consumer preference for in-store purchasing 
     * Individual brands appear to have distinct regional strengths that can be leveraged for more focused marketing efforts.
 * **Price vs. Reputation**
+    * High-volume products priced under $200, should pay more attention to low price product
     * A higher average price for a brand does **not** consistently correlate with a higher seller rating or more followers.
     * This suggests that factors beyond price, such as **brand reputation and seller service**, are critical drivers of customer satisfaction and loyalty.
 * **Market & Product Trends**
