@@ -34,8 +34,8 @@ The project was executed in a Python environment, leveraging the following core 
 * **Data Visualization:** Matplotlib, Seaborn
 #### **3.2. Data Preparation and Cleaning**
 Before analysis, the data underwent a thorough cleaning and preparation phase:
-1.  **Feature Engineering:** Structured, analyzable columns (`country_of_origin`, individual shipping costs per region) were engineered from unstructured text fields (`traits`, `shipping_options`). 
-2.  **Handling Missing & Inconsistent Data:** Missing values in the `color` and `seller_rating` columns were imputed. Textual inconsistencies, such as typos and non-standard entries (e.g., "see photo"), were standardized to ensure data quality.
+1.  **Feature Engineering:** Structured, analyzable columns were engineered from unstructured text fields
+2.  **Handling Missing & Inconsistent Data:** Missing values were imputed. Textual inconsistencies, such as typos and non-standard entries were standardized to ensure data quality.
 3.  **Outlier Management:** For the price distribution analysis, outliers were identified using the Interquartile Range (IQR) method to prevent extreme values from skewing the visualization of typical pricing.
 #### **3.3. Exploratory Data Analysis (EDA)**
 A combination of statistical summaries and visualizations was used to explore the data:
